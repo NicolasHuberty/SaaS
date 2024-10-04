@@ -12,6 +12,8 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^6.2.0",
+    "aws-amplify": "^6.5.2",
     "@iconify-json/heroicons": "^1.2.0",
     "@iconify-json/simple-icons": "^1.2.4",
     "@nuxt/content": "^2.13.2",
@@ -23,6 +25,8 @@
     "nuxt-og-image": "^3.0.4"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.1.1",
+    "@aws-amplify/backend-cli": "^1.2.4",
     "@nuxt/eslint": "^0.5.7",
     "@nuxthq/studio": "^2.1.1",
     "eslint": "^9.11.1",
