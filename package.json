@@ -27,6 +27,8 @@
   "devDependencies": {
     "@aws-amplify/backend": "^1.1.1",
     "@aws-amplify/backend-cli": "^1.2.4",
+    "aws-cdk": "^2.138.0",
+    "aws-cdk-lib": "^2.138.0",
     "@nuxt/eslint": "^0.5.7",
     "@nuxthq/studio": "^2.1.1",
     "eslint": "^9.11.1",
